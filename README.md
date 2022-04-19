@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
   <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
+<a href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
   <img align="left" alt="khageswar | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+</a>
 <br/>
 <br/>
 ## About Me
