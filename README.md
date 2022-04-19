@@ -30,9 +30,9 @@
 
 
 
-<h1> 📊 My Github Stats</h1>
+<h1> 📊 My Github Status</h1>
 <br/>
-<p align="center">
+<p>
     <a href="https://github.com/RanjanPriya12/github-readme-stats"><img alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RanjanPriya12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
     
   <a href="https://github.com/RanjanPriya/github-readme-stats"><img alt="Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjanPriya12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
