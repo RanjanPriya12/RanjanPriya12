@@ -21,18 +21,18 @@
   <img align="left" alt="Priya | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
 
-<br>
+<br><br>
 
 ## About Me
 <img align='right' src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" width="230">
-<b>Motivated and efficient Full-stack web developer</b> with a history of education in BSc and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
-- 🔭 I’m currently working on Fullstack Development
-- 🌱 I’m currently learning MERN 
-- 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing web apps..
-- 💬 Ask me about any MERN related stuff
-- 📫 How to reach me **khageswarojha52542@gmail.com**
-- 😄 Pronouns: He/His
+**Motivated and efficient Full-stack web developer** Since childhood, computers always fascinated me with the evaluation of the internet and the world around us I got more curious, and all my curiosity about the functionality of technology increased. To cater to this curiosity I decided to explore, on exploration I found out about Coding and Web development carrier and I decided to pursue the carrier in this. To follow my passion in my carrier I completed my bachelor of technology In Computer Science and Engineering. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+
+* 🔭 I’m currently working on Fullstack Development
+* 🌱 I’m currently learning MERN 
+* 👯 I’m looking to collaborate on Linkedin
+* 🤔 I’m looking for help with developing web apps..
+* 💬 Ask me about any MERN related stuff
+* 📫 How to reach me [gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"gmail")
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
  <br>
 
