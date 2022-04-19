@@ -41,18 +41,18 @@
  <br><br>
  
  <h1 align="center">ℹ️ &nbsp;Github Info</h1>
-<details>	
+<details align="center">	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjanPriya12&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
 </details>
-<details>
+<details align="center">
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RanjanPriya12&theme=dark" alt="RanjanPriya12" /></p>
 </details>
-<details>
+<details align="center">
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RanjanPriya12&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</details>
+</details >
 <br>
 <h1 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
 <a target="_blank" href="https://www.linkedin.com/in/priya-ranjan-172158193/">
