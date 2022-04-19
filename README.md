@@ -3,8 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Curious%20to%20Learn%20NewTech;Passionate%20Coder;Self%20taught%20Programmer;Quick%20Learner%20Programmer&center=true&width=500&height=50">
 </p>
-
-
+<br>
 ## About Me
 <img align='right' src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" width="230">
 **Motivated and efficient Full-stack web developer** Since childhood, computers always fascinated me with the evaluation of the internet and the world around us I got more curious, and all my curiosity about the functionality of technology increased. To cater to this curiosity I decided to explore, on exploration I found out about Coding and Web development carrier and I decided to pursue the carrier in this. To follow my passion in my carrier I completed my bachelor of technology In Computer Science and Engineering. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
@@ -20,7 +19,7 @@
  <br>
 
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="250" />
+
  <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
