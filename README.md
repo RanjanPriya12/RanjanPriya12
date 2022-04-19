@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan!](https://RanjanPriya12.github.io/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Curious%20to%20Learn%20NewTech;Passionate%20Coder;Self%20taught%20Programmer;Quick%20Learner%20Programmer&center=true&width=500&height=50">
 </p>
 
 <br><br>
@@ -22,8 +22,11 @@
 ## 🚀 Languages and Tools:
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="250" />
  <p align="left"> 
-  
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
+    * ![html](https://img.icons8.com/color/48/000000/html-5.png)
+    * ![html](https://img.icons8.com/color/48/000000/html-5.png)
+    * ![html](https://img.icons8.com/color/48/000000/html-5.png)
+    * ![html](https://img.icons8.com/color/48/000000/html-5.png)
+<!--     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
     <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="48" height="48"/>
@@ -32,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>   
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/> -->
     
 </p>
 <br/>
@@ -64,7 +67,7 @@
 <p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khageswar9&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 
-<h2 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<h1 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
 <a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
   <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
