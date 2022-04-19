@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
----
+
 
 <a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
   <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
