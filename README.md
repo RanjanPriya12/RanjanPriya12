@@ -3,14 +3,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
+
+---
+
 <a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
   <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
-  <img align="left" alt="khageswar | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Priya | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
----
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
