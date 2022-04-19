@@ -66,18 +66,18 @@
 </details>
 <br>
 <h1 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
-<a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
+<a target="_blank" href="https://www.linkedin.com/in/priya-ranjan-172158193/">
   <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
+<a target="_blank" href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
   <img align="left" alt="Priya | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100007147571415">
+<a target="_blank" href="https://www.facebook.com/profile.php?id=100007147571415">
   <img align="left" alt="Priya | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" />
 </a>
 
-<a href="https://www.instagram.com/priyaranjan3417/?hl=en">
+<a target="_blank" href="https://www.instagram.com/priyaranjan3417/?hl=en">
   <img align="left" alt="Priya | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
 <br>
