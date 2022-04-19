@@ -13,7 +13,15 @@
   <img align="left" alt="Priya | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+<a href="https://www.facebook.com/profile.php?id=100007147571415">
+  <img align="left" alt="Priya | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" />
+</a>
 
+<a href="https://www.instagram.com/priyaranjan3417/?hl=en">
+  <img align="left" alt="Priya | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+</a>
+
+<br>
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in BSc and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
