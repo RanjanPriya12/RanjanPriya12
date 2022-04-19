@@ -49,9 +49,9 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
- <br>
+ <br><br>
  
- <h2>ℹ️ &nbsp;Github Info</h2>
+ <h1>ℹ️ &nbsp;Github Info</h1>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjanPriya12&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
