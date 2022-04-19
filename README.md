@@ -1,9 +1,8 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan!](https://RanjanPriya12.github.io/)
-
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan!](https://RanjanPriya12.github.io/),Happy to see you Here 
+<img src="https://t3.ftcdn.net/jpg/00/90/44/50/360_F_90445006_h8ogTBGgIZveP9VOKXOZgy61LvNSIQmq.jpg" alt="emogi">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Curious%20to%20Learn%20NewTech;Passionate%20Coder;Self%20taught%20Programmer;Quick%20Learner%20Programmer&center=true&width=500&height=50">
 </p>
-<br>
 
 ## About Me
 <img align='right' src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" width="230">
@@ -42,6 +41,8 @@
 <br/>
 <br/>
 <br/>
+
+
 ## 📊 My Github Stats
 <br/>
     <a href="https://github.com/khageswar9/github-readme-stats"><img alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RanjanPriya12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
