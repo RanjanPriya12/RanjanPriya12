@@ -1,4 +1,4 @@
-### Hi (Priya Ranjan) 👋
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan](https://RanjanPriya12.github.io/) 👋
 
 
 **RanjanPriya12/RanjanPriya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
