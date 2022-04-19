@@ -22,10 +22,10 @@
 ## 🚀 Languages and Tools:
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="250" />
  <p align="left"> 
-    * ![html](https://img.icons8.com/color/48/000000/html-5.png)
-    * ![html](https://img.icons8.com/color/48/000000/html-5.png)
-    * ![html](https://img.icons8.com/color/48/000000/html-5.png)
-    * ![html](https://img.icons8.com/color/48/000000/html-5.png)
+     ![html](https://img.icons8.com/color/48/000000/html-5.png)
+     ![html](https://img.icons8.com/color/48/000000/html-5.png)
+     ![html](https://img.icons8.com/color/48/000000/html-5.png)
+     ![html](https://img.icons8.com/color/48/000000/html-5.png)
 <!--     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
