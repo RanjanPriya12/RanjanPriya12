@@ -32,7 +32,7 @@
 * 👯 I’m looking to collaborate on Linkedin
 * 🤔 I’m looking for help with developing web apps..
 * 💬 Ask me about any MERN related stuff
-* 📫 How to reach me [gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"gmail")
+* 📫 How to reach me [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
  <br>
 
