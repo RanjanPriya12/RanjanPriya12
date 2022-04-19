@@ -1,4 +1,4 @@
-### Hi Priya Ranjan 👋
+### Hi (Priya Ranjan) 👋
 
 
 **RanjanPriya12/RanjanPriya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
