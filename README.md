@@ -30,7 +30,7 @@
 
 
 
-<h1 align="center"> 📊 My Github Stats</h1>
+<h1> 📊 My Github Stats</h1>
 <br/>
     <a href="https://github.com/RanjanPriya12/github-readme-stats" align="center"><img alt="Priya's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=RanjanPriya12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
     </br>
@@ -41,9 +41,9 @@
  <br><br>
  
  <h1>ℹ️ &nbsp;Github Info</h1>
-<details align="center">	
+<details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjanPriya12&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjanPriya12&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
 </details>
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
@@ -51,7 +51,7 @@
 </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RanjanPriya12&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"><a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RanjanPriya12&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details >
 <br>
 <h1 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
