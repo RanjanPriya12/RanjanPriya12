@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan!](https://RanjanPriya12.github.io/),Happy to see you Here 
-<img src="https://t3.ftcdn.net/jpg/00/90/44/50/360_F_90445006_h8ogTBGgIZveP9VOKXOZgy61LvNSIQmq.jpg" alt="emogi">
 <p align="center">
+  <img src="https://t3.ftcdn.net/jpg/00/90/44/50/360_F_90445006_h8ogTBGgIZveP9VOKXOZgy61LvNSIQmq.jpg" width="30" height="30" alt="emogi">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Curious%20to%20Learn%20NewTech;Passionate%20Coder;Self%20taught%20Programmer;Quick%20Learner%20Programmer&center=true&width=500&height=50">
 </p>
 
@@ -38,9 +38,7 @@
 </p>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 
 ## 📊 My Github Stats
@@ -66,7 +64,7 @@
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RanjanPriya12&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
-
+<br>
 <h1 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
 <a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
   <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
