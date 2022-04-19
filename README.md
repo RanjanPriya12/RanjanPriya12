@@ -18,7 +18,6 @@
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
  <br>
  
- ![html](https://i.stack.imgur.com/PgcSR.png)
 
 ## 🚀 Languages and Tools:
 
@@ -33,6 +32,8 @@
     <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>   
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+    <img src="https://www.jntuacep.ac.in/departments/dept-of-cse/online-labs/images/ds.png" alt="DS"/>
+    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql"/>
     
 </p>
 <br/>
@@ -53,15 +54,15 @@
  <h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khageswar9&theme=github_dark" alt="khageswar" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjanPriya12&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
 </details>
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khageswar9&theme=dark" alt="khageswar9" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RanjanPriya12&theme=dark" alt="RanjanPriya12" /></p>
 </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khageswar9&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RanjanPriya12&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 
 <h1 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
