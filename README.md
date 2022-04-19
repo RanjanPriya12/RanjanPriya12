@@ -4,23 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
-
-
-<a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
-  <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
-  <img align="left" alt="Priya | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100007147571415">
-  <img align="left" alt="Priya | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" />
-</a>
-
-<a href="https://www.instagram.com/priyaranjan3417/?hl=en">
-  <img align="left" alt="Priya | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
-</a>
-
 <br><br>
 
 ## About Me
@@ -39,6 +22,7 @@
 ## 🚀 Languages and Tools:
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="250" />
  <p align="left"> 
+  
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
@@ -79,10 +63,22 @@
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khageswar9&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
-<details>   
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/khageswar9"><img src="https://github-profile-trophy.vercel.app/?username=khageswar9&margin-w=5&theme=radical" alt="khageswar" /></a> </p>
- </details>
+
+<h2 align="left">Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
+  <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
+  <img align="left" alt="Priya | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100007147571415">
+  <img align="left" alt="Priya | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" />
+</a>
+
+<a href="https://www.instagram.com/priyaranjan3417/?hl=en">
+  <img align="left" alt="Priya | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+</a>
  <hr>
 <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
