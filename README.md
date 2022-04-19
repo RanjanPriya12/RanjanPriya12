@@ -40,16 +40,16 @@
   
  <br><br>
  
- <h1 align="center">ℹ️ &nbsp;Github Info</h1>
+ <h1>ℹ️ &nbsp;Github Info</h1>
 <details align="center">	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjanPriya12&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
+<p><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjanPriya12&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
 </details>
-<details align="center">
+<details>
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RanjanPriya12&theme=dark" alt="RanjanPriya12" /></p>
 </details>
-<details align="center">
+<details>
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RanjanPriya12&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details >
