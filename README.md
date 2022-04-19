@@ -32,8 +32,8 @@
     <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>   
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-    <img src="https://www.jntuacep.ac.in/departments/dept-of-cse/online-labs/images/ds.png" alt="DS"/>
-    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql"/>
+    <img src="https://www.jntuacep.ac.in/departments/dept-of-cse/online-labs/images/ds.png" width="45" height="45" alt="DS"/>
+    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"  width="45" height="45" alt="mysql"/>
     
 </p>
 <br/>
@@ -43,9 +43,9 @@
 <br/>
 ## 📊 My Github Stats
 <br/>
-    <a href="https://github.com/khageswar9/github-readme-stats"><img alt="khageswar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khageswar9&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/khageswar9/github-readme-stats"><img alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RanjanPriya12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
     </br>
-  <a href="https://github.com/khageswar9/github-readme-stats"><img alt="khageswar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khageswar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/khageswar9/github-readme-stats"><img alt="khageswar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjanPriya12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
