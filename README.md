@@ -1,15 +1,12 @@
-<h2> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan](https://RanjanPriya12.github.io/)</h2>
-
-
-**RanjanPriya12/RanjanPriya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan](https://RanjanPriya12.github.io/)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
-<a href="https://www.linkedin.com/in/khageswar-ojha/">
-  <img align="left" alt="khageswar's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/priya-ranjan-172158193/">
+  <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://twitter.com/sunil18695924">
+<!-- <a href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
   <img align="left" alt="khageswar | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <br/>
