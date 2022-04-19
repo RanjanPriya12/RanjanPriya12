@@ -7,6 +7,7 @@
 
 ## About Me
 <img align='right' src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif" width="230">
+
 **Motivated and efficient Full-stack web developer** Since childhood, computers always fascinated me with the evaluation of the internet and the world around us I got more curious, and all my curiosity about the functionality of technology increased. To cater to this curiosity I decided to explore, on exploration I found out about Coding and Web development carrier and I decided to pursue the carrier in this. To follow my passion in my carrier I completed my bachelor of technology In Computer Science and Engineering. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 * 🔭 I’m currently working on Fullstack Development
@@ -15,7 +16,7 @@
 * 🤔 I’m looking for help with developing web apps..
 * 💬 Ask me about any MERN related stuff
 * 📫 How to reach me [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
-- ⚡ Fun fact: Hot water will turn into ice faster than cold water.
+- ⚡ Fun fact: Don't stop until you are proud.
  <br>
  
 
