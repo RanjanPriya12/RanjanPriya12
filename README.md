@@ -13,7 +13,7 @@
 * 🌱 I’m currently learning MERN and DSA.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
 * 🤔 I’m looking for help with developing web apps.
-* 👨‍💻 All of my projects are available at [My Portfolio](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"My Portfolio")
+* 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/RanjanPriya12,"My Portfolio")**
 * 📫 How to reach me [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
 - ⚡ Fun fact: Don't stop until you are proud.
  <br>
