@@ -1,6 +1,7 @@
 ## Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan](https://RanjanPriya12.github.io/),Happy to see you Here 
+
+## A Full Stack Web Developer
 <p align="center">
-  <img src="https://rankedbyvotes.com/wp-content/uploads/Community-Education.gif" width="80" height="70" alt="emogi">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Curious%20to%20Learn%20NewTech;Passionate%20Coder;Self%20taught%20Programmer;Quick%20Learner%20Programmer&center=true&width=500&height=50">
 </p>
 
@@ -10,7 +11,7 @@
 * 🌱 I’m currently learning MERN and DSA.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
 * 🤔 I’m looking for help with developing web apps.
-* 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/RanjanPriya12)
+* 👨‍💻 All of my projects are available at [My Portfolio](https://priya-portfolio.vercel.app/)
 * 📫 How to reach me [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
 - ⚡ Fun fact: **Don't stop until you are proud**.
  <br>
