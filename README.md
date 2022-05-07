@@ -2,7 +2,6 @@
 
 
 <p align="center">
-  <h1 align="center"> A Full Stack Web Developer</h1>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Curious%20to%20Learn%20NewTech;Passionate%20Coder;Self%20taught%20Programmer;Quick%20Learner%20Programmer&center=true&width=500&height=50">
 </p>
 
