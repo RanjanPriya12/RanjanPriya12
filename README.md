@@ -1,4 +1,4 @@
-## Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priya Ranjan](https://priya-portfolio.vercel.app/)
+## Hey!, I'm [Priya Ranjan](https://priya-portfolio.vercel.app/)
 
 
 
