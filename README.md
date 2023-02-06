@@ -2,7 +2,6 @@
 
 
 
-
 ## About Me
 
 * 👨‍💻 All of my projects are available at [My Portfolio](https://priyaranjan-portfolio.netlify.app/)
