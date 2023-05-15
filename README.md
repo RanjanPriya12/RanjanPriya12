@@ -6,9 +6,9 @@
 ## About Me
 
 * 👨‍💻 See all My creativity at [My Portfolio](https://priyaranjan-portfolio.netlify.app/)
-* 📫 How to reach me [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
-- ⚡ Fun fact: **Don't stop until you are proud**.
-- ⚡ Strongly Believe in: **Never give up attitude**.
+* 📫 Reach me at [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
+* ⚡ Fun fact: **Don't stop until you are proud**.
+* ⚡ Strongly Believe in: **Never give up attitude**.
  <br>
  
 
