@@ -9,7 +9,6 @@
 * 📫 Reach me at [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
 * ⚡ Strongly Believe in: **Never give up attitude**.
  <br>
- 
 
 <h1 align="center">Languages and Tools:</h1>
 
