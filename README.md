@@ -34,10 +34,10 @@
  <br><br>
  
  <h1>ℹ️ &nbsp;Github Info</h1>
-<details>	
-  <summary><b>🔎 Github Profile Details</b></summary>
+<!-- <details>	 -->
+  <summary><b>🔎 GitHub Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjanPriya12&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
-</details>
+<!-- </details> -->
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RanjanPriya12&theme=dark" alt="RanjanPriya12" /></p>
