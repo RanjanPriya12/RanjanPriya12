@@ -2,7 +2,6 @@
 
 
 
-
 ## About Me
 
 * 👨‍💻 Want to see all my creativity visit [my portfolio](https://priyaranjan-portfolio.netlify.app/)
