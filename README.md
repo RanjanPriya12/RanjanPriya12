@@ -1,7 +1,6 @@
 ## Hey!, I'm [Priya Ranjan](https://priya-portfolio.vercel.app/)
 
 
-
 ## About Me
 
 * 👨‍💻 Want to see all my creativity visit [my portfolio](https://priyaranjan-portfolio.netlify.app/)
