@@ -2,11 +2,11 @@
 
 
 ## About Me
-
+* 👨‍💻 Learning nest js.
 * 👨‍💻 Want to see all my creativity visit [my portfolio](https://priyaranjan-portfolio.netlify.app/)
 * 📫 Reach me at [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
 * ⚡ Strongly Believe in===> **` Never give up attitude` and `don't stop until you feel proud`**.
-* Learning nest js.
+
  <br>
 
 <h1 align="center">Languages and Tools:</h1>
