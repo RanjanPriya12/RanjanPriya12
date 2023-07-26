@@ -1,4 +1,4 @@
-## Hey!, I'm [Priya Ranjan](https://priya-portfolio.vercel.app/)
+## Hello!, I'm [Priya Ranjan](https://priya-portfolio.vercel.app/)
 
 
 ## About Me
