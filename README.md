@@ -1,8 +1,8 @@
-## Hello!, I'm [Priya Ranjan](https://priya-portfolio.vercel.app/)
+## Hey!, I'm [Priya Ranjan](https://priya-portfolio.vercel.app/)
 
 
 ## About Me
-* 👨‍💻 Learning nest js.
+* 👨‍💻 Learning backend technology nest js.
 * 👨‍💻 Want to see all my creativity visit [my portfolio](https://priyaranjan-portfolio.netlify.app/)
 * 📫 Reach me at [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
 * ⚡ Strongly Believe in===> **` Never give up attitude` and `don't stop until you feel proud`**.
