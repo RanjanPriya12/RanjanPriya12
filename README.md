@@ -2,7 +2,7 @@
 
 
 ## About Me
-* 👨‍💻 Learning backend technology nest js.
+* 👨‍💻 Learning backend technology Nest js.
 * 👨‍💻 Want to see all my creativity visit [my portfolio](https://priyaranjan-portfolio.netlify.app/)
 * 📫 Reach me at [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
 * ⚡ Strongly Believe in===> **` Never give up attitude` and `don't stop until you feel proud`**.
