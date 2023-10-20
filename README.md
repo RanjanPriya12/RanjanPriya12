@@ -29,7 +29,7 @@
    <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"  width="45" height="45" alt="mysql"/></a>
     <a href="https://docs.nestjs.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nest-js-icon.png"  width="45" height="45" alt="nestjs"/></a>
     <a href="https://www.javatpoint.com/typescript-tutorial"><img src="https://cdn-icons-png.flaticon.com/512/5936/5936903.png"  width="45" height="45" alt="nestjs"/></a>
-    <a href="https://nextjs.org/docs"><img src="https://static-00.iconduck.com/assets.00/brand-nextjs-icon-256x256-zm2coebd.png"  width="45" height="45" alt="nestjs"/></a>
+    <a href="https://nextjs.org/docs"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjOzsdyI80yyEWoK6v3YCvb_SywMsLx3CFMGHw64WmYI_Y3q7-axOr21_0qUljCkciQg&usqp=CAU"  width="45" height="45" alt="nestjs"/></a>
 </p>
 <br/>
 <br/>
