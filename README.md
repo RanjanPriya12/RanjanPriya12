@@ -60,12 +60,12 @@
 <p align="center"><a href="#"><img alt="Priya Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RanjanPriya12&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details >
 <br>
-<h1 align="left">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
+<h1 align="left">Connect with me<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpHTX0wxOvLcYCF8QfkxEHyJW2LYI33u8sNtEDbob&s' width="70px"> </h1>
 <a target="_blank" href="https://www.linkedin.com/in/priya-ranjan-172158193/">
-  <img align="left" alt="Priya's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Priya's LinkedIn" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" />
 </a>
-<a target="_blank" href="https://twitter.com/PriyaRa27788008?t=Xuj1UHFJJSD7dhOdFdWnEg&s=08">
-  <img align="left" alt="Priya | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a target="_blank" href="https://twitter.com/PriyaRanja3417">
+  <img align="left" alt="Priya | Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" />
 </a>
 
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100007147571415">
