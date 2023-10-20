@@ -60,7 +60,7 @@
 <p align="center"><a href="#"><img alt="Priya Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RanjanPriya12&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details >
 <br>
-<h1 align="left">Connect with me<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpHTX0wxOvLcYCF8QfkxEHyJW2LYI33u8sNtEDbob&s' width="70px"> </h1>
+<h1 align="left">Connect with me<img src='' width="70px"> </h1>
 <a target="_blank" href="https://www.linkedin.com/in/priya-ranjan-172158193/">
   <img align="left" alt="Priya's LinkedIn" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" />
 </a>
