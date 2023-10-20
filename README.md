@@ -27,7 +27,8 @@
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
    <a href="https://www.geeksforgeeks.org/data-structures/"><img src="https://www.jntuacep.ac.in/departments/dept-of-cse/online-labs/images/ds.png" width="45" height="45" alt="DS"/></a>
    <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"  width="45" height="45" alt="mysql"/></a>
-    <a href="https://docs.nestjs.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nest-js-icon.png"  width="45" height="45" alt="mysql"/></a>
+    <a href="https://docs.nestjs.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nest-js-icon.png"  width="45" height="45" alt="nestjs"/></a>
+    <a href="https://www.javatpoint.com/typescript-tutorial"><img src="https://cdn-icons-png.flaticon.com/512/5936/5936903.png"  width="45" height="45" alt="nestjs"/></a>
 </p>
 <br/>
 <br/>
